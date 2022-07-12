@@ -1,3 +1,3 @@
-module github.com/w-brunette/investimento/db
+module github.com/w-brunette/go-libs/db
 
 go 1.18
